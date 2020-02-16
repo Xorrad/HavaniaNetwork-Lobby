@@ -1,0 +1,5 @@
+main: net.havania.lobby.Lobby
+version: 1.0
+name: HavaniaLobby
+author: Xorrad
+commands:
